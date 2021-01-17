@@ -21,6 +21,8 @@ h1, h2 {
     color:paleturquoise;
 }
 .fal {
+    padding: 100px;
+    height:400px;
     text-align: center;
     background-color: lightslategray;
     color: white;
