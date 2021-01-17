@@ -1,5 +1,5 @@
 .top {
-    padding-top: 100px;
+    padding-top: 200px;
     height: 300px;
     text-align: center;
     background-color: lightpink;
@@ -9,6 +9,8 @@ h1, h2 {
     color: white;
 }
 .tru {
+    padding: 200px;
+    height: 350px;
     background-color:paleturquoise;
     display: none;
 }
@@ -21,8 +23,8 @@ h1, h2 {
     color:paleturquoise;
 }
 .fal {
-    padding: 100px;
-    height:400px;
+    padding: 200px;
+    height:350px;
     text-align: center;
     background-color: lightslategray;
     color: white;
