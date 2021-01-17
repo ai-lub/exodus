@@ -4,9 +4,11 @@
         if ($inp==='born'){
             $('#js-tru').show();
             $('.fal').hide();
+            $('html,body').scrollTop(708);
         }else{
             $('.fal').show();
             $('#js-tru').hide();
+            $('html,body').scrollTop(708);
         };
     });
 
