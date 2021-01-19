@@ -1,7 +1,7 @@
 (()=>{
     $('#js-btn').click(function(){
         const $inp=$('#js-input').val();
-        if ($inp==='born'){
+        if ($inp==='born'||$inp==='Born'){
             $('#js-tru').show();
             $('.fal').hide();
             $('html,body').scrollTop(708);
